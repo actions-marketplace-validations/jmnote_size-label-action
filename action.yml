@@ -1,4 +1,4 @@
-name: "Assign size label"
+name: "size-label-action-jmnote"
 description: "Assign labels based on pull request change sizes"
 inputs:
   sizes:
